@@ -1,0 +1,15 @@
+OBJETIVOS
+
+En el proyecto crearás funciones las cuales ejecutarán 
+un juego de adivinanzas.
+El código se ejecutará en el navegador, y podrás utilizar
+la consola de tu navegador para probar tus funciones 
+y ver los errores de sintaxis.
+
+DESCRIPCIÓN
+
+Escribirás cuatro funciones en script.js, se te ha
+proporcionado un código game.js, dicho código realizará
+las llamdas a tus funciones en función de las interacciones
+del usuario, no lo edites. 
+Coloca el nombre de las funciones como se te indica.
